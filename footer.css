@@ -1,0 +1,10 @@
+.footer{ 
+    display: flex;
+    font-size: 1rem;
+    justify-content: end;
+    padding-top: 1.5rem;
+    color: var(--Light-Blue, #1875E8);
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+}
